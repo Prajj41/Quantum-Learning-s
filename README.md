@@ -24,6 +24,7 @@ Version Control: Git, GitHub
 Other Tools: API Simulation, JSON Handling, Local Storage
 
 👩‍💻 Team Members & Contributions
+
 Prajna Jathan Sathish (4MW21CS033)
 Led frontend development using React.js
 Designed and implemented responsive UI
