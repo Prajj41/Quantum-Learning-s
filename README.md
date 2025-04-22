@@ -25,27 +25,27 @@ Other Tools: API Simulation, JSON Handling, Local Storage
 
 # 👩‍💻 Team Members & Contributions
 
-# Prajna Jathan Sathish (4MW21CS033)
-Led frontend development using React.js
-Designed and implemented responsive UI
+Prajna Jathan Sathish
+Led frontend development using React.js,
+Designed and implemented responsive UI,
 Integrated state management and local storage
 
-# Ananya Rao 
-Worked on activity and nutrition tracking modules
-Integrated chart libraries for weekly progress
+Ananya Rao 
+Worked on activity and nutrition tracking modules,
+Integrated chart libraries for weekly progress,
 Assisted in API simulation and JSON data handling
 
-# Deepthi Suvarna 
-Designed meal planning logic and nutrition insights
-Focused on UX improvements and cross-device responsiveness
+Deepthi Suvarna 
+Designed meal planning logic and nutrition insights,
+Focused on UX improvements and cross-device responsiveness,
 Implemented logic  and feature testing
 
-# Ananya S
-Contributed to UI component styling
-Reviewing UI layouts for consistency
+Ananya S
+Contributed to UI component styling,
+Reviewing UI layouts for consistency,
 Assisted with version control and minor feature testing
 
-# Deepashree Nayak
-Helped with initial layout setup
-Contributed to documentation and debugging
+Deepashree Nayak
+Helped with initial layout setup,
+Contributed to documentation and debugging,
 Implemented in keepin track on charting and responsiveness
