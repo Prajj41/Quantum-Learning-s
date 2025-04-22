@@ -1,5 +1,5 @@
 # Quantum-Learning's
-Trealth is designed to help users monitor and manage their health through features like activity tracking, nutrition logging, personalized goal setting, and visual progress reports. 
+Trealth is a health tracker designed to help users monitor and manage their health through features like activity tracking, nutrition logging, personalized goal setting, and visual progress reports. 
 
 # 🧑‍💻 Internship Details
 Company: Quantum Learnings
@@ -25,27 +25,27 @@ Other Tools: API Simulation, JSON Handling, Local Storage
 
 # 👩‍💻 Team Members & Contributions
 
-Prajna Jathan Sathish
+Prajna Jathan Sathish-
 Led frontend development using React.js,
 Designed and implemented responsive UI,
 Integrated state management and local storage
 
-Ananya Rao 
+Ananya Rao- 
 Worked on activity and nutrition tracking modules,
 Integrated chart libraries for weekly progress,
 Assisted in API simulation and JSON data handling
 
-Deepthi Suvarna 
+Deepthi Suvarna- 
 Designed meal planning logic and nutrition insights,
 Focused on UX improvements and cross-device responsiveness,
 Implemented logic  and feature testing
 
-Ananya S
+Ananya S-
 Contributed to UI component styling,
 Reviewing UI layouts for consistency,
 Assisted with version control and minor feature testing
 
-Deepashree Nayak
+Deepashree Nayak-
 Helped with initial layout setup,
 Contributed to documentation and debugging,
 Implemented in keepin track on charting and responsiveness
