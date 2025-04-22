@@ -3,9 +3,13 @@ Trealth is a health tracker designed to help users monitor and manage their heal
 
 # 🧑‍💻 Internship Details
 Company: Quantum Learnings
+
 Internship Duration: November 6, 2024 – April 16, 2025
+
 Role: Web Development Intern
+
 Guide: Ms. Rukmini Bhat B
+
 Department: Computer Science and Engineering
 
 # 🚀 Features
