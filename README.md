@@ -14,17 +14,26 @@ Department: Computer Science and Engineering
 
 # 🚀 Features
 User Profile Overview – Displays name, height, and weight
+
 Activity & Nutrition Tracking – Logs cycling, walking, and food intake
+
 Meal Planning & Nutrition Insights – Suggests healthy food options
+
 Progress Visualizations – Graphs rendered using Chart.js and Recharts
+
 Responsive Design – Works seamlessly across devices
+
 Local Storage – Maintains state across user sessions
 
 # 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript, React.js
+
 State Management: React Hooks (useState, useEffect)
+
 Data Visualization: Chart.js, Recharts
+
 Version Control: Git, GitHub
+
 Other Tools: API Simulation, JSON Handling, Local Storage
 
 # 👩‍💻 Team Members & Contributions
